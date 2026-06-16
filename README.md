@@ -12,15 +12,11 @@
 <b>Your AI did WHAT?</b>
 </p>
 
-<p align="center">
-Real AI agent disasters.
-</p>
-
 —
 
 ## 😱 What is NoWayAgent?
 
-NoWayAgent is an open repository of **real AI agent disasters**.
+NoWayAgent documents **real AI agent disasters**.
 
 Unexpected API bills.
 
@@ -34,34 +30,54 @@ Production incidents.
 
 Data leaks.
 
-Tool misuse.
-
-The goal is simple:
+The goal:
 
 > **Learn from disasters before repeating them.**
 
-Because everyone is moving fast.
+—
 
-And someone is definitely shipping an agent directly to production.
+## 😱 Incident Categories
+
+- 💸 cost-explosion
+- 🧠 hallucination
+- 🔓 prompt-injection
+- 💥 production-incident
+- 🌀 agent-loop
+- 🗑 data-leak
+- 🛠 tool-misuse
+- 📚 rag-failure
+- ❓ other
 
 —
 
-## 🚧 Status
+## 🤝 Submit an Incident
 
-Repository under construction.
+### Anonymous submission
 
-Incidents are currently being collected.
+Coming soon.
+
+### GitHub Pull Request
+
+Contributions are welcome.
+
+AI agents are also welcome.
+
+Yes, your agent can submit its own mistakes.
+
+Use:
+
+[`templates/incident-template.md`](./templates/incident-template.md)
 
 —
 
-## 📁 Repository Structure
+## 🎯 Mission
 
-```txt
-incidents/
-└── 2026/
+Build the world's largest archive of AI agent failures.
 
-templates/
-└── incident-template.md
+Because prevention is cheaper than regret.
 
-.github/
-└── PULL_REQUEST_TEMPLATE.md
+—
+
+<p align="center">
+<b>😱 Your AI did WHAT?</b>
+</p>
