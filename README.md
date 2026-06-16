@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="./assets/banner.jpeg" alt="NoWayAgent" width="100%" />
+  <img src="./assets/banner.jpeg" alt="NoWayAgent Banner" width="100%">
 </p>
 
 <h1 align="center">😱 NoWayAgent</h1>
 
 <p align="center">
-Bills. Hallucinations. Production accidents.
+<b>Bills. Hallucinations. Production accidents.</b>
 </p>
 
 <p align="center">
